@@ -3,5 +3,5 @@ Ułatwia on studentom wybór kursów oraz skryptów do nauki, pozwala kategoryzo
 W skład repozytorium wchodzą: <br>
 1- Właściwy skrypt w R <br>
 2- Dokumentacja systemu <br>
-3- Kilka przykładowych skryptów z różnych dziedzin matematyki (reprezentujące matematykę wykładaną na MIM UW) <br>
+3- Kilka przykładowych skryptów z różnych dziedzin matematyki (reprezentujące matematykę wykładaną na MIM UW, można analizować dowolne skrypty matematyczne) <br>
 4- Raport HTML badania powyższych dokumentów
