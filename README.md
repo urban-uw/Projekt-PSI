@@ -1,4 +1,4 @@
-System analizy skryptów matematycznych
+System analizy skryptów matematycznych\\
 Ułatwia on studentom wybór kursów oraz skryptów do nauki, pozwala kategoryzować prace naukowe, sprawdzać ich względne podobieństwo oraz umożliwia badania języka matematycznego.
 W skład repozytorium wchodzą:
 1- Właściwy skrypt w R
